@@ -50,6 +50,9 @@
     <Reports>@(Report)</Reports>
   </PropertyGroup>
   <ItemGroup>
+    <DataSet Include="Years.rsd" />
+  </ItemGroup>
+  <ItemGroup>
     <DataSource Include="WideWorldImportersDW.rds" />
   </ItemGroup>
   <ItemGroup>
