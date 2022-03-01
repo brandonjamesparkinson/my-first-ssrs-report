@@ -50,6 +50,10 @@
     <Reports>@(Report)</Reports>
   </PropertyGroup>
   <ItemGroup>
+    <DataSource Include="WideWorldImportersDW.rds" />
+  </ItemGroup>
+  <ItemGroup>
+    <Report Include="Annual Sales Info.rdl" />
     <Report Include="Customer Sales by City.rdl" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Reporting Services\Microsoft.ReportingServices.MSBuilder.targets" />
