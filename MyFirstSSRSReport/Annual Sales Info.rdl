@@ -691,9 +691,10 @@ ORDER BY CustomerName, dc.City, StateProvince, DeliveryYear, SalesPerson</Comman
               </TablixMembers>
             </TablixRowHierarchy>
             <DataSetName>CustomerData</DataSetName>
-            <Top>6.95537cm</Top>
+            <Top>8.25183cm</Top>
+            <Left>0.00001cm</Left>
             <Height>3cm</Height>
-            <Width>19.65854cm</Width>
+            <Width>19.65853cm</Width>
             <Style>
               <Border>
                 <Style>None</Style>
@@ -1059,8 +1060,8 @@ ORDER BY CustomerName, dc.City, StateProvince, DeliveryYear, SalesPerson</Comman
               </Style>
             </ChartNoDataMessage>
             <DataSetName>CustomerData</DataSetName>
-            <Top>0.17639cm</Top>
-            <Height>6.46085cm</Height>
+            <Top>0.28222cm</Top>
+            <Height>7.46627cm</Height>
             <Width>19.65854cm</Width>
             <ZIndex>1</ZIndex>
             <Style>
@@ -1073,13 +1074,13 @@ ORDER BY CustomerName, dc.City, StateProvince, DeliveryYear, SalesPerson</Comman
             </Style>
           </Chart>
         </ReportItems>
-        <Height>4.0625in</Height>
+        <Height>4.60417in</Height>
         <Style />
       </Body>
-      <Width>7.73958in</Width>
+      <Width>7.73959in</Width>
       <Page>
         <PageHeader>
-          <Height>1.29646cm</Height>
+          <Height>1.85208cm</Height>
           <PrintOnFirstPage>true</PrintOnFirstPage>
           <PrintOnLastPage>true</PrintOnLastPage>
           <ReportItems>
@@ -1087,6 +1088,7 @@ ORDER BY CustomerName, dc.City, StateProvince, DeliveryYear, SalesPerson</Comman
               <Source>Embedded</Source>
               <Value>Emoticon_Smile_Green</Value>
               <Sizing>FitProportional</Sizing>
+              <Left>0.00001cm</Left>
               <Height>1.1825cm</Height>
               <Width>1.23542cm</Width>
               <Style>
@@ -1116,8 +1118,8 @@ ORDER BY CustomerName, dc.City, StateProvince, DeliveryYear, SalesPerson</Comman
               </Paragraphs>
               <rd:DefaultName>Textbox37</rd:DefaultName>
               <Top>0.26141cm</Top>
-              <Left>11.1525cm</Left>
-              <Height>0.81167cm</Height>
+              <Left>11.15252cm</Left>
+              <Height>1.23859cm</Height>
               <Width>8.50604cm</Width>
               <ZIndex>1</ZIndex>
               <Style>
@@ -1138,7 +1140,7 @@ ORDER BY CustomerName, dc.City, StateProvince, DeliveryYear, SalesPerson</Comman
           </Style>
         </PageHeader>
         <PageFooter>
-          <Height>2.54cm</Height>
+          <Height>1.66688cm</Height>
           <PrintOnFirstPage>true</PrintOnFirstPage>
           <PrintOnLastPage>true</PrintOnLastPage>
           <ReportItems>
@@ -1161,6 +1163,7 @@ ORDER BY CustomerName, dc.City, StateProvince, DeliveryYear, SalesPerson</Comman
               </Paragraphs>
               <rd:DefaultName>Textbox38</rd:DefaultName>
               <Top>0.17639cm</Top>
+              <Left>0.00001cm</Left>
               <Height>1.10271cm</Height>
               <Width>6.04542cm</Width>
               <Style>
@@ -1194,7 +1197,7 @@ ORDER BY CustomerName, dc.City, StateProvince, DeliveryYear, SalesPerson</Comman
               </Paragraphs>
               <rd:DefaultName>Textbox39</rd:DefaultName>
               <Top>0.17639cm</Top>
-              <Left>6.35125cm</Left>
+              <Left>6.35126cm</Left>
               <Height>1.10271cm</Height>
               <Width>7.81812cm</Width>
               <ZIndex>1</ZIndex>
@@ -1229,7 +1232,7 @@ ORDER BY CustomerName, dc.City, StateProvince, DeliveryYear, SalesPerson</Comman
               </Paragraphs>
               <rd:DefaultName>Textbox40</rd:DefaultName>
               <Top>0.17639cm</Top>
-              <Left>14.56563cm</Left>
+              <Left>14.56564cm</Left>
               <Height>1.10271cm</Height>
               <Width>5.09292cm</Width>
               <ZIndex>2</ZIndex>
@@ -1310,8 +1313,8 @@ ORDER BY CustomerName, dc.City, StateProvince, DeliveryYear, SalesPerson</Comman
           <ParameterName>pYear</ParameterName>
         </CellDefinition>
         <CellDefinition>
-          <ColumnIndex>1</ColumnIndex>
-          <RowIndex>0</RowIndex>
+          <ColumnIndex>0</ColumnIndex>
+          <RowIndex>1</RowIndex>
           <ParameterName>pSalesperson</ParameterName>
         </CellDefinition>
       </CellDefinitions>
