@@ -1,11 +1,9 @@
 # My First SSRS Report
 Repo for working w/ SSRS reports (Using wizard and manual report creation.)
 
-Image 1
-<Image>
+#### Wizard built basic report
+![](images/customer-sales-report.PNG)
 
-Image 2
-<Image>
-  
-Image 3
-<Image>
+#### Manually built deployed report
+![](images/deployed-report.PNG)
+![](images/deployed-report-2.PNG)
